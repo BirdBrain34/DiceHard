@@ -1,0 +1,22 @@
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Release\net6.0\AC_Move.exe
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Release\net6.0\Game over.wav
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Release\net6.0\In Game.wav
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Release\net6.0\Main Menu.wav
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Release\net6.0\Victory.wav
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Release\net6.0\AC_Move.deps.json
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Release\net6.0\AC_Move.runtimeconfig.json
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Release\net6.0\AC_Move.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Release\net6.0\AC_Move.pdb
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Release\net6.0\AC_Move.csproj.AssemblyReference.cache
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Release\net6.0\AC_Move.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Release\net6.0\AC_Move.AssemblyInfoInputs.cache
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Release\net6.0\AC_Move.AssemblyInfo.cs
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Release\net6.0\AC_Move.csproj.CoreCompileInputs.cache
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Release\net6.0\AC_Move.csproj.CopyComplete
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Release\net6.0\AC_Move.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Release\net6.0\refint\AC_Move.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Release\net6.0\AC_Move.pdb
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Release\net6.0\AC_Move.genruntimeconfig.cache
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Release\net6.0\ref\AC_Move.dll

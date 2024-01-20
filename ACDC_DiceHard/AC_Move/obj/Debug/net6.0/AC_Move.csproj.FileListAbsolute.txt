@@ -1,0 +1,196 @@
+D:\BIBIT\code\AC_Move\AC_Move\bin\Debug\net6.0\AC_Move.exe
+D:\BIBIT\code\AC_Move\AC_Move\bin\Debug\net6.0\AC_Move.deps.json
+D:\BIBIT\code\AC_Move\AC_Move\bin\Debug\net6.0\AC_Move.runtimeconfig.json
+D:\BIBIT\code\AC_Move\AC_Move\bin\Debug\net6.0\AC_Move.dll
+D:\BIBIT\code\AC_Move\AC_Move\bin\Debug\net6.0\AC_Move.pdb
+D:\BIBIT\code\AC_Move\AC_Move\obj\Debug\net6.0\AC_Move.GeneratedMSBuildEditorConfig.editorconfig
+D:\BIBIT\code\AC_Move\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfoInputs.cache
+D:\BIBIT\code\AC_Move\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfo.cs
+D:\BIBIT\code\AC_Move\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CoreCompileInputs.cache
+D:\BIBIT\code\AC_Move\AC_Move\obj\Debug\net6.0\AC_Move.dll
+D:\BIBIT\code\AC_Move\AC_Move\obj\Debug\net6.0\refint\AC_Move.dll
+D:\BIBIT\code\AC_Move\AC_Move\obj\Debug\net6.0\AC_Move.pdb
+D:\BIBIT\code\AC_Move\AC_Move\obj\Debug\net6.0\AC_Move.genruntimeconfig.cache
+D:\BIBIT\code\AC_Move\AC_Move\obj\Debug\net6.0\ref\AC_Move.dll
+D:\BIBIT\code\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.exe
+D:\BIBIT\code\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.deps.json
+D:\BIBIT\code\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.runtimeconfig.json
+D:\BIBIT\code\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.dll
+D:\BIBIT\code\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.pdb
+D:\BIBIT\code\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.GeneratedMSBuildEditorConfig.editorconfig
+D:\BIBIT\code\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfoInputs.cache
+D:\BIBIT\code\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfo.cs
+D:\BIBIT\code\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CoreCompileInputs.cache
+D:\BIBIT\code\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.dll
+D:\BIBIT\code\ACDC_Mooove\AC_Move\obj\Debug\net6.0\refint\AC_Move.dll
+D:\BIBIT\code\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.pdb
+D:\BIBIT\code\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.genruntimeconfig.cache
+D:\BIBIT\code\ACDC_Mooove\AC_Move\obj\Debug\net6.0\ref\AC_Move.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.exe
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.deps.json
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.runtimeconfig.json
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.pdb
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfoInputs.cache
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfo.cs
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CoreCompileInputs.cache
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Debug\net6.0\refint\AC_Move.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.pdb
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.genruntimeconfig.cache
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Debug\net6.0\ref\AC_Move.dll
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.exe
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.deps.json
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.runtimeconfig.json
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.dll
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.pdb
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfoInputs.cache
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfo.cs
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CoreCompileInputs.cache
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.dll
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\refint\AC_Move.dll
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.pdb
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.genruntimeconfig.cache
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\ref\AC_Move.dll
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.exe
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.deps.json
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.runtimeconfig.json
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.dll
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.pdb
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfoInputs.cache
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfo.cs
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CoreCompileInputs.cache
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.dll
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\refint\AC_Move.dll
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.pdb
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.genruntimeconfig.cache
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\ref\AC_Move.dll
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.AssemblyReference.cache
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CopyComplete
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Game over.wav
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\In Game.wav
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Main Menu.wav
+E:\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Victory.wav
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.exe
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Game over.wav
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\In Game.wav
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Main Menu.wav
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Victory.wav
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.deps.json
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.runtimeconfig.json
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.dll
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.pdb
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.AssemblyReference.cache
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfoInputs.cache
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfo.cs
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CoreCompileInputs.cache
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CopyComplete
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.dll
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\refint\AC_Move.dll
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.pdb
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.genruntimeconfig.cache
+C:\Users\thefl\Downloads\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\ref\AC_Move.dll
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.exe
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Game over.wav
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\In Game.wav
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Main Menu.wav
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Victory.wav
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.deps.json
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.runtimeconfig.json
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.dll
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.pdb
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.AssemblyReference.cache
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfoInputs.cache
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfo.cs
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CoreCompileInputs.cache
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CopyComplete
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.dll
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\refint\AC_Move.dll
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.pdb
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.genruntimeconfig.cache
+C:\Users\Aldjon Dela Cruz\Downloads\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\ref\AC_Move.dll
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.exe
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Game over.wav
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\In Game.wav
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Main Menu.wav
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Victory.wav
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.deps.json
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.runtimeconfig.json
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.dll
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.pdb
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.AssemblyReference.cache
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfoInputs.cache
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfo.cs
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CoreCompileInputs.cache
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CopyComplete
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.dll
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\refint\AC_Move.dll
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.pdb
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.genruntimeconfig.cache
+E:\Downloads\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\ref\AC_Move.dll
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.exe
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Game over.wav
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\In Game.wav
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Main Menu.wav
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Victory.wav
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.deps.json
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.runtimeconfig.json
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.dll
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.pdb
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.AssemblyReference.cache
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.GeneratedMSBuildEditorConfig.editorconfig
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfoInputs.cache
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfo.cs
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CoreCompileInputs.cache
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CopyComplete
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.dll
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\refint\AC_Move.dll
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.pdb
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.genruntimeconfig.cache
+D:\BIBIT\Atendido_Dela Cruz_Matthew_Game (1)\Atendido_Dela Cruz_Matthew_Game\ACDC_Mooovefixed_version (GameEnds)\ACDC_Mooovefixed_version (1)\ACDC_Mooovefixed_version\ACDC_Mooove\AC_Move\obj\Debug\net6.0\ref\AC_Move.dll
+D:\BIBIT\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.exe
+D:\BIBIT\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Game over.wav
+D:\BIBIT\ACDC_Mooove\AC_Move\bin\Debug\net6.0\In Game.wav
+D:\BIBIT\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Main Menu.wav
+D:\BIBIT\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Victory.wav
+D:\BIBIT\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.deps.json
+D:\BIBIT\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.runtimeconfig.json
+D:\BIBIT\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.dll
+D:\BIBIT\ACDC_Mooove\AC_Move\bin\Debug\net6.0\AC_Move.pdb
+D:\BIBIT\ACDC_Mooove\AC_Move\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BIBIT\ACDC_Mooove\AC_Move\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\BIBIT\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.AssemblyReference.cache
+D:\BIBIT\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.GeneratedMSBuildEditorConfig.editorconfig
+D:\BIBIT\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfoInputs.cache
+D:\BIBIT\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.AssemblyInfo.cs
+D:\BIBIT\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CoreCompileInputs.cache
+D:\BIBIT\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CopyComplete
+D:\BIBIT\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.dll
+D:\BIBIT\ACDC_Mooove\AC_Move\obj\Debug\net6.0\refint\AC_Move.dll
+D:\BIBIT\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.pdb
+D:\BIBIT\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.genruntimeconfig.cache
+D:\BIBIT\ACDC_Mooove\AC_Move\obj\Debug\net6.0\ref\AC_Move.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Game over.wav
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Debug\net6.0\In Game.wav
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Main Menu.wav
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Debug\net6.0\Victory.wav
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.AssemblyReference.cache
+C:\Users\thefl\Downloads\ACDC_Mooove\AC_Move\obj\Debug\net6.0\AC_Move.csproj.CopyComplete
